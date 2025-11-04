@@ -32,8 +32,8 @@ Android Studio(Min. required Artic Fox)
  ```
 /*
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
-Developed by: DAKSHINA MOORTHY N D
-RegisterNumber:  212224230049
+Developed by: VISHAL S
+RegisterNumber:  212224040365
 */
 ```
 
